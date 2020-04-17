@@ -1,0 +1,31 @@
+{
+    "project1":[
+    {
+      "id": 1,
+      "name":"An Nguyễn",
+      "job":"Chuyên viên thiết kế",
+      "date":"Thứ 4 - 09/10/19",
+      "title":"Tạo thành phần UI mới",
+      "number":"1.00"    
+    },
+
+    {
+        "id": 2,
+        "name":"An Nguyễn",
+        "job":"Chuyên viên thiết kế",
+        "date":"Thứ 4 - 09/10/19",
+        "title":"Tạo thành phần UI mới",
+        "number":"3.00"    
+      }   
+  ],
+  "project2":[
+    {
+        "id": 1,
+        "name":"Thành Nguyễn",
+        "job":"Chuyên viên thiết kế",
+        "date":"Thứ 4 - 09/10/19",
+        "title":"Tạo thành phần UI mới",
+        "number":"2.50"    
+      }    
+  ]
+}
